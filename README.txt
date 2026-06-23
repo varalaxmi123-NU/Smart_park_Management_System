@@ -14,7 +14,7 @@ Put the entire `smartpark` folder in:
 ## STEP 3: Run the project
 Open browser → http://localhost/smartpark
 
-This will auto-redirect to login.php ✅
+This will auto-redirect to login.php 
 
 ## Default Login Credentials
 - **Admin:** admin@smartpark.com / admin123
